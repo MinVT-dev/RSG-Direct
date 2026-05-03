@@ -1,1 +1,73 @@
-WIP...
+RSG-Direct Terms of Service
+
+Last Updated: 5/3/2026
+
+By using RSG-Direct, you agree to the following Terms of Service. If you do not agree, you must stop using the bot immediately.
+
+1. Overview
+RSG-Direct is a Discord bot designed to assist with server management, user verification, and integration with external platforms such as Steam.
+
+-------------------------------------------------------------------------
+
+2. Usage Requirements
+
+By using RSG-Direct, you agree to:
+* Follow Discord’s Terms of Service and Community Guidelines
+* Not misuse or exploit the bot’s features
+* Provide accurate information when linking external accounts (e.g. Steam)
+
+-------------------------------------------------------------------------
+
+3. Verification System
+
+RSG-Direct includes a verification system that:
+* Confirms ownership of the game *Ready or Not* via Steam
+* Uses a randomly generated keyword to validate account ownership
+
+You agree not to:
+* Attempt to bypass or exploit the verification system
+* Link accounts that are not owned by you
+
+-------------------------------------------------------------------------
+
+4. Account Linking
+
+* Each Steam account may only be linked to one Discord account
+* Attempting to bypass this restriction may result in removal of access or further moderation action
+
+-------------------------------------------------------------------------
+
+5. Moderation & Enforcement
+
+Server staff may use RSG-Direct to:
+* View relevant account linkage data
+* Enforce server rules and maintain integrity
+
+Abuse of the bot may result in:
+* Loss of access to the bot
+* Removal from the server
+* Additional moderation actions at staff discretion
+
+-------------------------------------------------------------------------
+
+6. Availability
+
+We do not guarantee:
+* Continuous uptime
+* Error-free operation
+
+Features may be modified, limited, or removed at any time.
+
+-------------------------------------------------------------------------
+
+## 7. Liability
+
+RSG-Direct is provided "as is" without warranties of any kind. We are not responsible for:
+* Data loss
+* Service interruptions
+* Any damages resulting from use of the bot
+
+-------------------------------------------------------------------------
+
+8. Changes to Terms
+These Terms may be updated at any time. Continued use of the bot constitutes acceptance of any changes.
